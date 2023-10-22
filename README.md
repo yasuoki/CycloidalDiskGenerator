@@ -1,5 +1,5 @@
-# Cycloidal Disk Generator
-Cycloidal Disk Generator for JSCAD  
+# Cycloidal Drive Generator
+Cycloidal Drive Generator for JSCAD  
 
 <img src="fig1.jpg" width="70%"><br>  
 
